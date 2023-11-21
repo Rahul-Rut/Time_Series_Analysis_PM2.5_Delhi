@@ -13,7 +13,7 @@ This repository contains files related to the project of Time Series Analysis of
 - [1st Jupyter Notebook](Final_FTSA.ipynb): Code for initial cleaning and analysis along with some simple models
 - [2nd Jupyter Notebook](Final_FTSA_2.ipynb): Code for Random Forest, XG Boost and LSTM Models alongside TabPy Integration
 - [1st R File](FTSA_.R): Code for Dynamic Harmonic Regression and TBATS Model
-- [2nd R File](FTSA2_.R): Code for Outlier Treatment, GAM Model
+- [2nd R File](FTSA2.R): Code for Outlier Treatment, GAM Model
 
 ### Report
 - [Word Report](Final_Masters_Project.docx): Report for the entire project
