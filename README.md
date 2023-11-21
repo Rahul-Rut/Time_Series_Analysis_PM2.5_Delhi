@@ -7,7 +7,7 @@ This repository contains files related to the project of Time Series Analysis of
 ### Data Store
 - [city_hour.csv](city_hour.csv) : Contains hourly recorded concentration of pollutants in various cities over the mentioned period
 - [out.csv](out.csv) : Intermediate dataset of the above one, cleaned for the use in R file
-- [out2.csb](out2.csv) : Same file as above, with indices
+- [out2.csv](out2.csv) : Same file as above, with indices
 
 ### Code
 - [1st Jupyter Notebook](Final_FTSA.ipynb): Code for initial cleaning and analysis along with some simple models
